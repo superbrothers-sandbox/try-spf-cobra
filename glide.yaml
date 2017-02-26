@@ -1,0 +1,4 @@
+package: github.com/superbrothers-sandbox/try-spf13-cobra
+import:
+- package: github.com/spf13/pflag
+- package: github.com/spf13/cobra
